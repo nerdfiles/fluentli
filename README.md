@@ -19,8 +19,8 @@ Pages lack microdata attributes, but do possess generic Open Graph attributes.
 
 ### Strategy
 
-Complement Open Graph metadatributes that is applied to markup with 
-schema.org microdata attributes.
+Complement Open Graph metadatributes applied to markup with schema.org 
+microdata attributes.
 
 ## Implementation
 
