@@ -8,6 +8,7 @@
 2. Questions with Pretty URLs should be marked up with microdata à la https://schema.org/version/2.0
 3. Pages should be marked up with accessibility attributes.
 4. Modal windows do not render center screen.
+5. On some iPhones (5S), mobile menu is rendered with a height that puts navigation elements off-screen.
 
 ## Backend
 
