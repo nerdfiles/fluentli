@@ -8,7 +8,7 @@ Identify market and intersectional adoption scenarios.
 
 ### Strategy
 
-Use Google Search trends and persona develop through Mixpanel over microdata-
+Use Google Search trends and persona development through Mixpanel over microdata-
 rich enhanced pages.
 
 ## Search Engine Optimization
